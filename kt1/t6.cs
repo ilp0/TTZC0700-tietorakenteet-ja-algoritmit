@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 
 namespace kt1 {
-	class t5 {
+	class t6 {
 		static void Main(){
 			Console.WriteLine(juuri(1, 1f));
 			Console.WriteLine(juuri(7, 1f));
